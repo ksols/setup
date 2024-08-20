@@ -1,8 +1,11 @@
 # Must have:
+
 # Terminal emulator:
+
 https://formulae.brew.sh/cask/kitty
 
 # Shell type Oh My Zsh:
+
 https://ohmyz.sh/
 
 # Plugin list:
@@ -24,14 +27,16 @@ autojump
 fuzzy finder download:
 https://github.com/junegunn/fzf
 
-# Nvim: 
+# Nvim:
 
 https://nvchad.com/
 
-Fonts: 
+Fonts:
 https://www.nerdfonts.com/
 
 # Search tool:
+
 https://www.raycast.com/
 
 changes in test
+Main update
