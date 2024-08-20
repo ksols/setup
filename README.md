@@ -1,4 +1,4 @@
-# setup
+# Must have:
 # Terminal emulator:
 https://formulae.brew.sh/cask/kitty
 
