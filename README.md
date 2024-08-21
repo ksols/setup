@@ -8,6 +8,10 @@ https://formulae.brew.sh/cask/kitty
 
 https://ohmyz.sh/
 
+Theme wizard Powerlevel10k:
+https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#oh-my-zsh
+
+
 # Plugin list:
 
 https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins
